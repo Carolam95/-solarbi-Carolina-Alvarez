@@ -1,0 +1,4 @@
+fecha,dispositivo_id,energia_kwh,pct_datos_validos,filas_validas,filas_esperadas
+2026-10-05,1,26.945,97.92,282,288
+2026-10-06,1,26.195,95.14,274,288
+2026-10-07,1,26.306,95.83,276,288
